@@ -80,7 +80,7 @@ The complete flow of the project is:
 
 The `session.csv` dataset was uploaded to an Amazon S3 bucket and used as the source for the Snowflake data loading process.
 
-![AWS S3](screenshots/aws-s3.png)
+![AWS S3](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/f7952b6dcce4feb31ff0c9e553eb84ed086ec451/S3RainAnalysis.png)
 
 
 # Snowflake
