@@ -137,7 +137,7 @@ Yield was analyzed by:
 - Season
 - Crop
 
-![Yield Analysis](screenshots/yield-analysis.png)
+![Yield Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/e67964dd7d8b74ffd4239b7c86d3454d5df0a8fa/Yield%20Analysis.png)
 
 
 # Insights
