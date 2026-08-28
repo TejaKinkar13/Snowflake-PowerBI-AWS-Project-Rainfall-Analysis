@@ -125,7 +125,7 @@ Temperature was analyzed by:
 - Season
 - Crop
 
-![Temperature Analysis](screenshots/temperature-analysis.png)
+![Temperature Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/9ecf4d85401259a0e48a989591cebb7b1635a2d4/Temperature%20Analysis.png)
 
 
 ## 4. Yield Analysis
