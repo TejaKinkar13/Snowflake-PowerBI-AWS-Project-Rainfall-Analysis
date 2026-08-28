@@ -101,7 +101,7 @@ Rainfall was analyzed by:
 - Season
 - Crop
 
-![Rainfall Analysis](screenshots/rainfall-analysis.png)
+![Rainfall Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/1fe680de700a09def7ebef1622a7ca6ab6d8485d/Rainfall%20Analysis.png)
 
 
 ## 2. Humidity Analysis
