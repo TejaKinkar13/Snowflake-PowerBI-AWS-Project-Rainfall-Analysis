@@ -72,7 +72,7 @@ The complete flow of the project is:
 
 # Project Architecture
 
-![Project Architecture](https://github.com/user-attachments/assets/e8f47c9b-36ca-41aa-b2c4-a8ff4f3ff6ae)
+![Project Architecture](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/1b15ac8f24debef7c7b75b30496e1ea07a7a6f51/ChatGPT%20Image%20Aug%2028%2C%202026%2C%2002_22_38%20AM.png)
 
 
 
