@@ -87,7 +87,7 @@ The `session.csv` dataset was uploaded to an Amazon S3 bucket and used as the so
 
 Snowflake was used to load the data from Amazon S3 and perform SQL-based transformations before connecting the data to Power BI.
 
-![Snowflake](screenshots/snowflake.png)
+![Snowflake](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/be11b49857fe16e5b93f4bdd3d7641cc4bdd293e/SnowflakeAgricultureSQL.png)
 
 
 # Power BI Report
