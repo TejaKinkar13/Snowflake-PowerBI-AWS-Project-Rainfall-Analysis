@@ -113,7 +113,7 @@ Humidity was analyzed by:
 - Season
 - Crop
 
-![Humidity Analysis](screenshots/humidity-analysis.png)
+![Humidity Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/9a65e0125b4f3d0d0378a25307a26712fff2ab62/Humidity%20Analysis.png)
 
 
 ## 3. Temperature Analysis
