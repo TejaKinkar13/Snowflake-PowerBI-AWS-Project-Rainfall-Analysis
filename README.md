@@ -1,7 +1,7 @@
 
 # Rainfall-Agriculture-Analysis
 
-### Dashboard Link : [Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)
+### Dashboard Link : [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjBhYmQyNmYtOGQ4Ny00OGUyLWIyYzMtYjM4OTlmNzY5NmEyIiwidCI6ImJiOTk5NDE2LTcyYWItNGUxMi1hMDdlLWE2Y2U4ZWE0Mzc3YSJ9)
 
 ## Problem Statement
 
@@ -177,7 +177,7 @@ The report was created to analyze the following:
 
 The completed report was published to Power BI Service.
 
-### Dashboard Link : [View Dashboard](YOUR_POWER_BI_LINK_HERE)
+### Dashboard Link : [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjBhYmQyNmYtOGQ4Ny00OGUyLWIyYzMtYjM4OTlmNzY5NmEyIiwidCI6ImJiOTk5NDE2LTcyYWItNGUxMi1hMDdlLWE2Y2U4ZWE0Mzc3YSJ9)
 
 
 # Tools & Technologies
