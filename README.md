@@ -112,6 +112,7 @@ Humidity was analyzed by:
 
 ![Humidity Analysis](images/humidity-analysis.png)
 
+
 ## 3. Temperature Analysis
 
 Temperature was analyzed by:
