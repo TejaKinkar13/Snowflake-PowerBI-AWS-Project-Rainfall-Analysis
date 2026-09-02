@@ -110,7 +110,7 @@ Humidity was analyzed by:
 - Season
 - Crop
 
-![Humidity Analysis](images/humidity-analysis.png)
+![Humidity Analysis](images/Humidity%20Analysis.png)
 
 
 ## 3. Temperature Analysis
