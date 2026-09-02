@@ -72,22 +72,20 @@ The complete flow of the project is:
 
 # Project Architecture
 
-![Project Architecture](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/1b15ac8f24debef7c7b75b30496e1ea07a7a6f51/ChatGPT%20Image%20Aug%2028%2C%202026%2C%2002_22_38%20AM.png)
-
+![Project Architecture](images/architecture-diagram.png)
 
 
 # AWS S3
 
 The `session.csv` dataset was uploaded to an Amazon S3 bucket and used as the source for the Snowflake data loading process.
 
-![AWS S3](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/f7952b6dcce4feb31ff0c9e553eb84ed086ec451/S3RainAnalysis.png)
-
+![S3 Rain Analysis](images/s3-rain-analysis.png)
 
 # Snowflake
 
 Snowflake was used to load the data from Amazon S3 and perform SQL-based transformations before connecting the data to Power BI.
 
-![Snowflake](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/be11b49857fe16e5b93f4bdd3d7641cc4bdd293e/SnowflakeAgricultureSQL.png)
+![Snowflake Agriculture SQL](images/snowflake-agriculture-sql.png)
 
 
 # Power BI Report
@@ -101,8 +99,7 @@ Rainfall was analyzed by:
 - Season
 - Crop
 
-![Rainfall Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/1fe680de700a09def7ebef1622a7ca6ab6d8485d/Rainfall%20Analysis.png)
-
+![Rainfall Analysis](images/rainfall-analysis.png)
 
 ## 2. Humidity Analysis
 
@@ -113,8 +110,7 @@ Humidity was analyzed by:
 - Season
 - Crop
 
-![Humidity Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/9a65e0125b4f3d0d0378a25307a26712fff2ab62/Humidity%20Analysis.png)
-
+![Humidity Analysis](images/humidity-analysis.png)
 
 ## 3. Temperature Analysis
 
@@ -125,8 +121,7 @@ Temperature was analyzed by:
 - Season
 - Crop
 
-![Temperature Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/9ecf4d85401259a0e48a989591cebb7b1635a2d4/Temperature%20Analysis.png)
-
+![Temperature Analysis](images/temperature-analysis.png)
 
 ## 4. Yield Analysis
 
@@ -137,8 +132,7 @@ Yield was analyzed by:
 - Season
 - Crop
 
-![Yield Analysis](https://github.com/TejaKinkar13/Snowflake-PowerBI-AWS-Project-Rainfall-Analysis/blob/e67964dd7d8b74ffd4239b7c86d3454d5df0a8fa/Yield%20Analysis.png)
-
+![Yield Analysis](images/yield-analysis.png)
 
 # Insights
 
